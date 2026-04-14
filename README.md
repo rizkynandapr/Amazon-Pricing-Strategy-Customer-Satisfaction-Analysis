@@ -1,6 +1,6 @@
 # Amazon-Pricing-Strategy-Customer-Satisfaction-Analysis
 
-__Made by Rizky Nanda Praditia__
+__This project was created by Rizky Nanda Praditia__
 
 Dashboard link : https://public.tableau.com/shared/HFQ27XFSQ?:display_count=n&:origin=viz_share_link
 
